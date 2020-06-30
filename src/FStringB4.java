@@ -7,3 +7,8 @@ public class FStringB4 {
 
     }
 }
+
+//Outcome:
+// The character at position 1 is: a
+//The character at  position 3 is: a
+//Process finished with exit code 0

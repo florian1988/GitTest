@@ -4,4 +4,4 @@ public class Hanna1 {
         System.out.println(hanna.length());
     }
 }
-// outcome
+// outcome: 31

@@ -1,4 +1,4 @@
-public class Day2 {
+public class A1A2 {
     public static void main(String[] args) {
         String hannah = "Did Hannah see bees? Hannah did";
 

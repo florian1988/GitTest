@@ -1,5 +1,5 @@
 public class FAdvString {
-    static void AdvancedMethode(){
+    static void AdvancedMethod(){
        String FirstN = "John";
        String f = "";
        String LastN = "Doe";
@@ -11,7 +11,7 @@ public class FAdvString {
     }
 
     public static void main(String[] args) {
-        AdvancedMethode();
+        AdvancedMethod();
     }
 }
 

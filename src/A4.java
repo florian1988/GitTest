@@ -6,3 +6,4 @@ public class A4 {
         System.out.println ("This is " + arrOfStr[0].charAt(0) + arrOfStr[1].charAt(0));
     }
 }
+//Change Commit
